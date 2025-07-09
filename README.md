@@ -115,6 +115,11 @@ Steps to Share on Streamlit Community Cloud:
     Create a New App: In your Streamlit Cloud dashboard, click "New App," select your GitHub repository and branch, and click "Deploy".
     Share the URL: Once deployed, Streamlit will provide a URL that you can share with others.
 
+## Local Setup ##
+
+To run the dashboard locally, install the required dependencies using pip:
+pip install -r requirements.txt
+
 ## Deliverables ## 
 Check folder deliverables
 Check your installed library version with >>> pip show yfinance
